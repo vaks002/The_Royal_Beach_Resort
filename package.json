@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "contentful": "^7.9.1",
+    "contentful": "^11.7.17",
     "eslint-plugin-react": "^7.10.0",
     "npm": "^6.10.2",
     "react": "^16.8.6",
